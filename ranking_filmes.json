@@ -1,0 +1,502 @@
+[
+  {
+    "position": "1",
+    "titulos": "Scream VI",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "2",
+    "titulos": "Creed III",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "3",
+    "titulos": "Everything Everywhere All at Once",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "4",
+    "titulos": "Cocaine Bear",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "5",
+    "titulos": "The Whale",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "6",
+    "titulos": "Ghosted",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "7",
+    "titulos": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "8",
+    "titulos": "65",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "9",
+    "titulos": "Triangle of Sadness",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "10",
+    "titulos": "Ant-Man and the Wasp: Quantumania",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "11",
+    "titulos": "A Man Called Otto",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "12",
+    "titulos": "Fall",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "13",
+    "titulos": "Babylon",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "14",
+    "titulos": "Luther: The Fallen Sun",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "15",
+    "titulos": "Women Talking",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "16",
+    "titulos": "Operation Fortune: Ruse de guerre",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "17",
+    "titulos": "The Banshees of Inisherin",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "18",
+    "titulos": "Elvis",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "19",
+    "titulos": "We Have a Ghost",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "20",
+    "titulos": "Tár",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "21",
+    "titulos": "Missing",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "22",
+    "titulos": "Puss in Boots: The Last Wish",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "23",
+    "titulos": "The Fabelmans",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "24",
+    "titulos": "Avatar: The Way of Water",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "25",
+    "titulos": "Scream",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "26",
+    "titulos": "This Is Where I Leave You",
+    "ano_lancamento": "2014"
+  },
+  {
+    "position": "27",
+    "titulos": "John Wick: Chapter 4",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "28",
+    "titulos": "The Unbearable Weight of Massive Talent",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "29",
+    "titulos": "All Quiet on the Western Front",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "30",
+    "titulos": "The Menu",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "31",
+    "titulos": "Jesus Revolution",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "32",
+    "titulos": "The Super Mario Bros. Movie",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "33",
+    "titulos": "Knock at the Cabin",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "34",
+    "titulos": "Creed",
+    "ano_lancamento": "2015"
+  },
+  {
+    "position": "35",
+    "titulos": "Living",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "36",
+    "titulos": "Bullet Train",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "37",
+    "titulos": "Aftersun",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "38",
+    "titulos": "Road House",
+    "ano_lancamento": null
+  },
+  {
+    "position": "39",
+    "titulos": "M3GAN",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "40",
+    "titulos": "Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "41",
+    "titulos": "Top Gun: Maverick",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "42",
+    "titulos": "No Hard Feelings",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "43",
+    "titulos": "Creed II",
+    "ano_lancamento": "2018"
+  },
+  {
+    "position": "44",
+    "titulos": "Black Panther: Wakanda Forever",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "45",
+    "titulos": "X",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "46",
+    "titulos": "Peter Pan & Wendy",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "47",
+    "titulos": "Champions",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "48",
+    "titulos": "Marlowe",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "49",
+    "titulos": "Infinity Pool",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "50",
+    "titulos": "History of the World: Part I",
+    "ano_lancamento": "1981"
+  },
+  {
+    "position": "51",
+    "titulos": "Shazam! Fury of the Gods",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "52",
+    "titulos": "Glass Onion",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "53",
+    "titulos": "Dungeons & Dragons: Honor Among Thieves",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "54",
+    "titulos": "Magic Mike's Last Dance",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "55",
+    "titulos": "Scream",
+    "ano_lancamento": "1996"
+  },
+  {
+    "position": "56",
+    "titulos": "The Hunger Games",
+    "ano_lancamento": "2012"
+  },
+  {
+    "position": "57",
+    "titulos": "Road House",
+    "ano_lancamento": "1989"
+  },
+  {
+    "position": "58",
+    "titulos": "Haunted Mansion",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "59",
+    "titulos": "The Godfather",
+    "ano_lancamento": "1972"
+  },
+  {
+    "position": "60",
+    "titulos": "Sharper",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "61",
+    "titulos": "The Strays",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "62",
+    "titulos": "The Batman",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "63",
+    "titulos": "Winnie the Pooh: Blood and Honey",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "64",
+    "titulos": "Once Upon a Time in Hollywood",
+    "ano_lancamento": "2019"
+  },
+  {
+    "position": "65",
+    "titulos": "R.I.P.D.",
+    "ano_lancamento": "2013"
+  },
+  {
+    "position": "66",
+    "titulos": "Close",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "67",
+    "titulos": "Smile",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "68",
+    "titulos": "Plane",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "69",
+    "titulos": "Empire of Light",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "70",
+    "titulos": "Rocky",
+    "ano_lancamento": "1976"
+  },
+  {
+    "position": "71",
+    "titulos": "Titanic",
+    "ano_lancamento": "1997"
+  },
+  {
+    "position": "72",
+    "titulos": "The Shawshank Redemption",
+    "ano_lancamento": "1994"
+  },
+  {
+    "position": "73",
+    "titulos": "Interstellar",
+    "ano_lancamento": "2014"
+  },
+  {
+    "position": "74",
+    "titulos": "The Flash",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "75",
+    "titulos": "John Wick",
+    "ano_lancamento": "2014"
+  },
+  {
+    "position": "76",
+    "titulos": "Harry Potter and the Sorcerer's Stone",
+    "ano_lancamento": "2001"
+  },
+  {
+    "position": "77",
+    "titulos": "Tu Jhoothi Main Makkaar",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "78",
+    "titulos": "Scream 4",
+    "ano_lancamento": "2011"
+  },
+  {
+    "position": "79",
+    "titulos": "The Little Mermaid",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "80",
+    "titulos": "Unwelcome",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "81",
+    "titulos": "Gulmohar",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "82",
+    "titulos": "Top Gun",
+    "ano_lancamento": "1986"
+  },
+  {
+    "position": "83",
+    "titulos": "Where the Crawdads Sing",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "84",
+    "titulos": "Saving Private Ryan",
+    "ano_lancamento": "1998"
+  },
+  {
+    "position": "85",
+    "titulos": "Heat",
+    "ano_lancamento": "1995"
+  },
+  {
+    "position": "86",
+    "titulos": "The Pale Blue Eye",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "87",
+    "titulos": "RRR",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "88",
+    "titulos": "80 for Brady",
+    "ano_lancamento": "2023"
+  },
+  {
+    "position": "89",
+    "titulos": "The Woman King",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "90",
+    "titulos": "Don't Worry Darling",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "91",
+    "titulos": "Promising Young Woman",
+    "ano_lancamento": "2020"
+  },
+  {
+    "position": "92",
+    "titulos": "Blonde",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "93",
+    "titulos": "Joker: Folie à Deux",
+    "ano_lancamento": "2024"
+  },
+  {
+    "position": "94",
+    "titulos": "The Gentlemen",
+    "ano_lancamento": "2019"
+  },
+  {
+    "position": "95",
+    "titulos": "Palm Trees and Power Lines",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "96",
+    "titulos": "Pulp Fiction",
+    "ano_lancamento": "1994"
+  },
+  {
+    "position": "97",
+    "titulos": "Barbarian",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "98",
+    "titulos": "The Quiet Girl",
+    "ano_lancamento": "2022"
+  },
+  {
+    "position": "99",
+    "titulos": "Love",
+    "ano_lancamento": "2015"
+  },
+  {
+    "position": "100",
+    "titulos": "Your Place or Mine",
+    "ano_lancamento": "2023"
+  }
+]
